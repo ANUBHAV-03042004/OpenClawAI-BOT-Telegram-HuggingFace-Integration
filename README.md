@@ -129,8 +129,9 @@ openclaw models auth paste-token --provider huggingface
 openclaw models auth paste-token --provider openai
 # Paste your OpenAI API key when prompted
 ```
-
-### 6. Start the Gateway
+### 6. Note
+- Enter API_KEY in openclaw.json wherever said 
+### 7. Start the Gateway
 
 ```powershell
 openclaw gateway start
